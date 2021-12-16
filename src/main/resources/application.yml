@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: nurse
+      hots: localhost
+      port: 27017
+
+patient:
+  uri: http://localhost:8081
